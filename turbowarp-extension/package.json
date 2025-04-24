@@ -1,0 +1,21 @@
+{
+    "name": "JavaScript",
+    "version": "0.0.1",
+    "description": "Execute codigos JavaScript no seu projeto.",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "keywords": [
+      "turbowarp",
+      "scratch",
+      "javascript",
+      "extension"
+    ],
+    "author": "DJ_Davi15 & ChatGPT",
+    "license": "MIT",
+    "dependencies": {
+      "express": "^4.18.2"
+    }
+  }
+  
